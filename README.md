@@ -1,12 +1,11 @@
 # SSE-project
-Structure of project
-cpanel: Stores configuration files and settings related to your hosting control panel
-softaculous: Related to the Softaculous App Installer, it contains scripts and backups for software installed using Softaculous.
-htdocs: The root directory where the website files are stored and served from. For cPanel, this is usually public_html.
-htaccess: A configuration file for use with Apache Web Server. It can control high-level settings of your website.
-wp-admin: Contains the files necessary for the WordPress administrative dashboard.
-wp-content: This is where themes, plugins, and uploads are stored. Essentially, it's the folder that contains most user-generated and customizable data.
-wp-includes: The core WordPress files that are necessary for the CMS to function but generally not modified by the user.
+<h2>Structure of project</h2>
+cpanel: Stores configuration files and settings related to your hosting control panel<br>
+softaculous: Related to the Softaculous App Installer, it contains scripts and backups for software installed using Softaculous.<br>
+htaccess: A configuration file for use with Apache Web Server. It can control high-level settings of your website.<br>
+wp-admin: Contains the files necessary for the WordPress administrative dashboard.<br>
+wp-content: This is where themes, plugins, and uploads are stored. Essentially, it's the folder that contains most user-generated and customizable data.<br>
+wp-includes: The core WordPress files that are necessary for the CMS to function but generally not modified by the user.<br>
 
 <h2>Hosting and Domain:</h2>
 The team is using Dashinfinity as your hosting provider because it supports WordPress, which is ideal for your online store.
